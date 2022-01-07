@@ -1,5 +1,5 @@
 # PGPAIML
 
 - [Pre Work](PreWork)
-  - [Assignments](PreWork/Assignmnent)
+  - [Assignments](PreWork/Assignments)
   - [Notes](PreWork/Notes)
