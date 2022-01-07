@@ -1,1 +1,6 @@
-
+[Python Book](https://anandology.com/python-practice-book/)
+[Google's Python Class](https://developers.google.com/edu/python/)
+[Python Documentation](https://docs.python.org/3/tutorial/)
+[A Byte of Python - Python Programming Book](https://python.swaroopch.com/)
+[Measures of Central Tendency](https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php)
+[Descriptive Statistics](https://onlinestatbook.com/2/introduction/descriptive.html)
