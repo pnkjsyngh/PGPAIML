@@ -4,15 +4,8 @@
 
 <br />
 
-<!-- - ### [Fundamentals of AI/ML](FundamentalsOfAIML)
-  - [Assignments](FundamentalsOfAIML/Assignments)
-  - [Notes](FundamentalsOfAIML/Notes)
-  
-- ### [Pre Work](PreWork)
-  - [Assignments](PreWork/Assignments)
-  - [Notes](PreWork/Notes) -->
-
 | Courses  | Assignments | Notes |
 |---|---|---|
 |[Fundamentals of AI/ML](FundamentalsOfAIML)|[Assignments](FundamentalsOfAIML/Assignments)|[Notes](FundamentalsOfAIML/Notes)|
 |[Pre Work](PreWork)|[Assignments](PreWork/Assignments)|[Notes](PreWork/Notes)|
+|[Statistical Learning](StatisticalLearning)|[Assignments](StatisticalLearning/Assignments)|[Notes](StatisticalLearning/Notes)|
