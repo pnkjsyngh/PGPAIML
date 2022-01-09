@@ -1,0 +1,2 @@
+- [Measures of central tendency](https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php)
+- [Descriptive Stats](http://onlinestatbook.com/2/introduction/descriptive.html)
