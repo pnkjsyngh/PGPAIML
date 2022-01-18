@@ -1,1 +1,3 @@
 - [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/ns/books/published//thinkcspy/index.html)
+- [NumPy Tutorial](https://www.geeksforgeeks.org/numpy-tutorial/)
+- [Pandas Tutorial](https://www.geeksforgeeks.org/pandas-tutorial/)
