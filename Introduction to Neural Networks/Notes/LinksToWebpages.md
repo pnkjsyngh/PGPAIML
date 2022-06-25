@@ -7,9 +7,6 @@
 - [Refer to this article to know about Multi Class Classification problem with Neural Networks and its implementation in Python.](https://machinelearningmastery.com/multi-class-classification-tutorial-keras-deep-learning-library/)
 - [Activation Functions (This article will be useful if you want to know more about different types of Activation functions, pros and cons of them)](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
   
-<!-- ### Week 2
-- [sklearn's article that gives a detailed explanation of clustering](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
-- [An article on Hierarchical Clustering, dendrograms, and how to decide the number of the clusters from it with Python code](https://stackabuse.com/hierarchical-clustering-with-python-and-scikit-learn/)
-- [An article on the concepts of different linkage methods and implementation of Hierarchical Clustering with Python code](https://www.analyticsvidhya.com/blog/2019/05/beginners-guide-hierarchical-clustering/)
-- [sklearn's PCA documentation, code, and parameters used in the algorithms](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
-- [Conceptual understanding of PCA, how it works, and where it is used](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c) -->
+### Week 2
+- [Optimization Technique (An article covering different optimization techniques specifically, Gradient Descent)](https://ruder.io/optimizing-gradient-descent/)
+- [Neural Networks Playground (Play around with the different building blocks of the neural networks)](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.70007&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
